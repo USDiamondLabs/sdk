@@ -9,7 +9,7 @@
 * Website: https://usdxglobal.com/
 * Twitter (X): https://x.com/USDiamondLabs
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : FrX2jBYHCXRw15yfvNfptDsfSrAQ8Ds52bxSxQqtpump
 ---
 
 ## 📖 Overview
